@@ -32,4 +32,4 @@ To bridge the gap between data preparation and advanced analytics, I utilized Py
 ---
 
 ## 📄 Project Documentation
-* View the full **Project Reports & Code**: [Download/View PDF](./reports/) (Includes data tables, code workflows, and AI-assisted analysis reports).
+* View the full **Project Reports & Code**: [Download/View PDF].
